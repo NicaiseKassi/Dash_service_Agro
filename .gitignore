@@ -1,0 +1,11 @@
+# RStudio files
+.Rproj.user
+.Rhistory
+.RData
+
+# renv library
+renv/library/
+
+# Other temporary files
+*.tmp
+
